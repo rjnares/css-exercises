@@ -1,0 +1,15 @@
+/* type and type descendant selector */
+/* div p {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+} */
+
+/* type and class descendant selector */
+div .text {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
